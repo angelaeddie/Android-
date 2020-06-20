@@ -1,6 +1,8 @@
 # Android-
 Android启动页黑屏及最优解决方案
-参考 https://juejin.im/post/58ad90518ac2472a2ad9b684
+参考 
+https://blog.csdn.net/myfmyfmyfmyf/article/details/84965814
+https://juejin.im/post/58ad90518ac2472a2ad9b684
 
 android/app/src/main/res/values/strings.xml 添加样式
 
